@@ -20,3 +20,8 @@ git remote add origin url_repo_remoto
 git push origin master
 git push origin develop
 git checkout master
+
+-Agregar un nuevo feature
+git flow feature start add-configuracion
+
+git flow feature finish add-configuracion
